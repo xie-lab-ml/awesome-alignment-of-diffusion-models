@@ -18,7 +18,8 @@ The collection of awesome papers on alignment of diffusion model.
 * Diffusion Model Alignment Using Direct Preference Optimization
 * Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model
 * DreamReward- Text-to-3D Generation with Human Preference
-
+* Towards Better Text-to-Image Generation Alignment via Attention Modulation
+  
 ## Human Alignment of General Vision-Language Models
 
 * DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback
