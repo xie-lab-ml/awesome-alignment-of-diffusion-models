@@ -44,6 +44,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Human-Centered Loss Functions (HALOs)
 * ORPO- Monolithic Preference Optimization without Reference Model
 * A General Theoretical Paradigm to Understand Learning from Human Preferences
+* Stepwise Alignment for Constrained Language Model Policy Optimization
 
 ## Evaluation
 
