@@ -19,6 +19,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model
 * DreamReward- Text-to-3D Generation with Human Preference
 * Towards Better Text-to-Image Generation Alignment via Attention Modulation
+* PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models
   
 ## Human Alignment of General Vision-Language Models
 
@@ -55,3 +56,8 @@ The collection of awesome papers on alignment of diffusion model.
 * LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation
 * VPGen & VPEval: Visual Programming for Text-to-Image Generation and Evaluation
 * Intriguing Properties of Generative Classifiers
+
+## Prompt Optimization
+* Improving Text-to-Image Consistency via Automatic Prompt Optimization
+* Optimizing Prompts for Text-to-Image Generation
+* Model-Agnostic Human Preference Inversion in Diffusion Models
