@@ -46,6 +46,7 @@ The collection of awesome papers on alignment of diffusion model.
 * ORPO- Monolithic Preference Optimization without Reference Model
 * A General Theoretical Paradigm to Understand Learning from Human Preferences
 * Stepwise Alignment for Constrained Language Model Policy Optimization
+* Scaling Laws for Reward Model Overoptimization
 
 ## Evaluation
 
