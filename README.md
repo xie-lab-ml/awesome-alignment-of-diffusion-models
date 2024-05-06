@@ -47,6 +47,7 @@ The collection of awesome papers on alignment of diffusion model.
 * A General Theoretical Paradigm to Understand Learning from Human Preferences
 * Stepwise Alignment for Constrained Language Model Policy Optimization
 * Scaling Laws for Reward Model Overoptimization
+* The Alignment Problem from a Deep Learning Perspective
 
 ## Evaluation
 
