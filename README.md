@@ -41,13 +41,14 @@ The collection of awesome papers on alignment of diffusion model.
 * A General Theoretical Paradigm to Understand Learning from Human Preferences
 * AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback
 * Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision
-* Easy-to-Hard Generalization:Scalable Alignment Beyond Human Supervision
+* Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision
 * Human-Centered Loss Functions (HALOs)
 * ORPO- Monolithic Preference Optimization without Reference Model
 * A General Theoretical Paradigm to Understand Learning from Human Preferences
 * Stepwise Alignment for Constrained Language Model Policy Optimization
 * Scaling Laws for Reward Model Overoptimization
 * The Alignment Problem from a Deep Learning Perspective
+* Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints
 
 ## Evaluation
 
