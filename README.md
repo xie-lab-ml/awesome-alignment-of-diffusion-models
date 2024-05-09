@@ -64,3 +64,6 @@ The collection of awesome papers on alignment of diffusion model.
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization
 * Optimizing Prompts for Text-to-Image Generation
 * Model-Agnostic Human Preference Inversion in Diffusion Models
+
+# Security
+* Visual Adversarial Examples Jailbreak Aligned Large Language Models, AAAI 2024 (oral)
