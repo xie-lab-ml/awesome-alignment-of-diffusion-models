@@ -49,10 +49,11 @@ The collection of awesome papers on alignment of diffusion model.
 * Scaling Laws for Reward Model Overoptimization
 * The Alignment Problem from a Deep Learning Perspective
 * Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints
+* Visual Instruction Tuning, NeurIPS 2023, Oral
   
 ### Security
-* Visual Adversarial Examples Jailbreak Aligned Large Language Models, AAAI 2024 (oral)
-
+* Visual Adversarial Examples Jailbreak Aligned Large Language Models, AAAI 2024, Oral
+  
 ## Evaluation
 
 * DALL-Eval: Probing the reasoning skills and social biases of text-to-image generative transformers
