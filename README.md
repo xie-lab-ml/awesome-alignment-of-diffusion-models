@@ -49,6 +49,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Scaling Laws for Reward Model Overoptimization
 * The Alignment Problem from a Deep Learning Perspective
 * Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints
+* Self-Play Preference Optimization for Language Model Alignment
 * Visual Instruction Tuning, NeurIPS 2023, Oral
   
 ### Security
