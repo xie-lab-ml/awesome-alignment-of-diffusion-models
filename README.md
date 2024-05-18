@@ -51,6 +51,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints
 * Self-Play Preference Optimization for Language Model Alignment
 * Visual Instruction Tuning, NeurIPS 2023, Oral
+* Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
   
 ### Security
 * Visual Adversarial Examples Jailbreak Aligned Large Language Models, AAAI 2024, Oral
