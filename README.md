@@ -53,6 +53,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Visual Instruction Tuning, NeurIPS 2023, Oral
 * Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
 * Direct Language Model Alignment from Online AI Feedback
+* Understanding the performance gap between online and offline alignment algorithms
   
 ### Security
 * Visual Adversarial Examples Jailbreak Aligned Large Language Models, AAAI 2024, Oral
