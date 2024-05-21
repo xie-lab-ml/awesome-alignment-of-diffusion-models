@@ -67,6 +67,7 @@ The collection of awesome papers on alignment of diffusion model.
 * LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation
 * VPGen & VPEval: Visual Programming for Text-to-Image Generation and Evaluation
 * Intriguing Properties of Generative Classifiers
+* GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment
 
 ## Prompt Optimization
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization
