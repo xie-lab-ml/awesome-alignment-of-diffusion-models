@@ -54,6 +54,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
 * Direct Language Model Alignment from Online AI Feedback
 * Understanding the performance gap between online and offline alignment algorithms
+* SimPO: Simple Preference Optimization with a Reference-Free Reward
   
 ### Security
 * Visual Adversarial Examples Jailbreak Aligned Large Language Models, AAAI 2024, Oral
