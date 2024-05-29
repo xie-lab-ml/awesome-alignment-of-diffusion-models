@@ -69,6 +69,7 @@ The collection of awesome papers on alignment of diffusion model.
 * VPGen & VPEval: Visual Programming for Text-to-Image Generation and Evaluation
 * Intriguing Properties of Generative Classifiers
 * GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment
+* Holistic Evaluation of Text-to-Image Models, NeurIPS2023 
 
 ## Prompt Optimization
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization
