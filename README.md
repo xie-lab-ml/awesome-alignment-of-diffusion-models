@@ -71,6 +71,7 @@ The collection of awesome papers on alignment of diffusion model.
 * GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment
 * Holistic Evaluation of Text-to-Image Models, NeurIPS2023
 * Measuring style similarity in diffusion models
+* Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation
 
 ## Prompt Optimization
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization
