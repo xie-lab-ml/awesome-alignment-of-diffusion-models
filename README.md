@@ -57,6 +57,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Understanding the performance gap between online and offline alignment algorithms
 * SimPO: Simple Preference Optimization with a Reference-Free Reward
 * What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning, ICLR2024
+* Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs
   
 ### Security
 * Visual Adversarial Examples Jailbreak Aligned Large Language Models, AAAI 2024, Oral
