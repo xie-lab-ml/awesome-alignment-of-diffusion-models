@@ -20,7 +20,8 @@ The collection of awesome papers on alignment of diffusion model.
 * DreamReward- Text-to-3D Generation with Human Preference
 * Towards Better Text-to-Image Generation Alignment via Attention Modulation
 * PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models
-* Rich Human Feedback for Text to Image Generatlon
+* Rich Human Feedback for Text to Image Generation
+* Learning multi-dimensional human preference for text-to-image generation
   
 ## Human Alignment of General Vision-Language Models
 
