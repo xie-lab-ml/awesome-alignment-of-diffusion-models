@@ -23,11 +23,13 @@ The collection of awesome papers on alignment of diffusion model.
 * Rich Human Feedback for Text to Image Generation
 * Learning multi-dimensional human preference for text-to-image generation
   
-## Human Alignment of General Vision-Language Models
+## Human Alignment Beyond Text-to-Image Diffusion Models 
 
 * DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback
 * Flava: A foundational language and vision alignment model
 * Text-To-Concept (and Back) via Cross-Model Alignment
+* Video Diffusion Alignment via Reward Gradients
+* Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization
 
 ## Fundamentals of Human Alignments
 
