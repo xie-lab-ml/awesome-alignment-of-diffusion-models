@@ -62,6 +62,7 @@ The collection of awesome papers on alignment of diffusion model.
 * What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning, ICLR2024
 * Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs
 * Generalized Preference Optimization: A Unified Approach to Offline Alignment
+* Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community
   
 ### Security
 * Visual Adversarial Examples Jailbreak Aligned Large Language Models, AAAI 2024, Oral
