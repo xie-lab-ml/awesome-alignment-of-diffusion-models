@@ -54,7 +54,6 @@ The collection of awesome papers on alignment of diffusion model.
 * The Alignment Problem from a Deep Learning Perspective
 * Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints
 * Self-Play Preference Optimization for Language Model Alignment
-* Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks
 * Direct Language Model Alignment from Online AI Feedback
 * Understanding the performance gap between online and offline alignment algorithms
 * SimPO: Simple Preference Optimization with a Reference-Free Reward
