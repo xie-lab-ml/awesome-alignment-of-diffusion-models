@@ -22,6 +22,7 @@ The collection of awesome papers on alignment of diffusion model.
 * PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models
 * Rich Human Feedback for Text to Image Generation
 * Learning multi-dimensional human preference for text-to-image generation
+* A Dense Reward View on Aligning Text-to-Image Diffusion with Preference
   
 ## Human Alignment Beyond Text-to-Image Diffusion Models 
 
