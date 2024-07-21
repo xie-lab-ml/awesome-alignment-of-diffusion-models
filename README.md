@@ -71,7 +71,6 @@ The collection of awesome papers on alignment of diffusion model.
 * Mutual Information Divergence: A Unified Metric for Multimodal Generative Models
 * LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation
 * VPGen & VPEval: Visual Programming for Text-to-Image Generation and Evaluation
-* Intriguing Properties of Generative Classifiers
 * GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment
 * Holistic Evaluation of Text-to-Image Models, NeurIPS2023
 * Measuring style similarity in diffusion models
