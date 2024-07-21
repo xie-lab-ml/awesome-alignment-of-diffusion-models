@@ -67,7 +67,6 @@ The collection of awesome papers on alignment of diffusion model.
 ## Evaluation
 
 * DALL-Eval: Probing the reasoning skills and social biases of text-to-image generative transformers
-* SelfEval: Leveraging the discriminative nature of generative models for evaluation
 * Evaluating object hallucination in large vision-language models
 * Mutual Information Divergence: A Unified Metric for Multimodal Generative Models
 * LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation
