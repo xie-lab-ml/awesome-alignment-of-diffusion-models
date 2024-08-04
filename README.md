@@ -82,3 +82,30 @@ The collection of awesome papers on alignment of diffusion model.
 * Model-Agnostic Human Preference Inversion in Diffusion Models
 * RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions
 * Dynamic Prompt Optimizing for Text-to-Image Generation
+* 
+
+## ICML 2024
+### Oral
+* A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity
+* Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study
+
+### Spotlight
+* Decoding-time Realignment of Language Models
+* Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation
+* Model Alignment as Prospect Theoretic Optimization
+
+### Poster
+* AI Alignment with Changing and Influenceable Reward Functions
+* Understanding the Learning Dynamics of Alignment with Human Feedback
+* Fundamental Limitations of Alignment in Large Language Models
+* Human Alignment of Large Language Models through Online Preference Optimisation
+* Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment
+* Long Is More for Alignment: A Simple but Tough-to-Beat Baseline for Instruction Fine-Tuning
+* Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback
+* MaxMin-RLHF: Alignment with Diverse Human Preferences
+* Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications
+* Towards Efficient Exact Optimization of Language Model Alignment
+* Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback
+* Generalized Preference Optimization: A Unified Approach to Offline Alignment
+* Position: A Roadmap to Pluralistic Alignment
+
