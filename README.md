@@ -82,7 +82,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Model-Agnostic Human Preference Inversion in Diffusion Models
 * RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions
 * Dynamic Prompt Optimizing for Text-to-Image Generation
-* 
+ 
 
 ## ICML 2024
 ### Oral
@@ -108,4 +108,11 @@ The collection of awesome papers on alignment of diffusion model.
 * Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback
 * Generalized Preference Optimization: A Unified Approach to Offline Alignment
 * Position: A Roadmap to Pluralistic Alignment
-
+* Pragmatic Feature Preferences: Learning Reward-Relevant Preferences from Human Input
+* Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences
+* Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint
+* Active Preference Learning for Large Language Models
+* A Dense Reward View on Aligning Text-to-Image Diffusion with Preference
+* Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data
+* Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation
+* Token-level Direct Preference Optimization
