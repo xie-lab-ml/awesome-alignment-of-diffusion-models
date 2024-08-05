@@ -108,7 +108,6 @@ The collection of awesome papers on alignment of diffusion model.
 * Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback
 * Generalized Preference Optimization: A Unified Approach to Offline Alignment
 * Position: A Roadmap to Pluralistic Alignment
-* Pragmatic Feature Preferences: Learning Reward-Relevant Preferences from Human Input
 * Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences
 * Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint
 * Active Preference Learning for Large Language Models
