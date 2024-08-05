@@ -115,3 +115,14 @@ The collection of awesome papers on alignment of diffusion model.
 * Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data
 * Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation
 * Token-level Direct Preference Optimization
+* Feedback Efficient Online Fine-Tuning of Diffusion Models
+* A Minimaximalist Approach to Reinforcement Learning from Human Feedback
+* Nash Learning from Human Feedback
+* Provably Robust DPO: Aligning Language Models with Noisy Feedback
+* ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback
+* BRAIn: Bayesian Reward-conditioned Amortized Inference for natural language generation from feedback
+* RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
+* RLVF: Learning from Verbal Feedback without Overgeneralization
+* Coactive Learning for Large Language Models using Implicit User Feedback
+* Quality Diversity through Human Feedback: Towards Open-Ended Diversity-Driven Optimization
+* Dense Reward for Free in Reinforcement Learning from Human Feedback
