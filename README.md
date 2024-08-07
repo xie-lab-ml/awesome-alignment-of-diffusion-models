@@ -93,6 +93,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Decoding-time Realignment of Language Models
 * Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation
 * Model Alignment as Prospect Theoretic Optimization
+* Nash Learning from Human Feedback
 
 ### Poster
 * AI Alignment with Changing and Influenceable Reward Functions
@@ -113,11 +114,8 @@ The collection of awesome papers on alignment of diffusion model.
 * Active Preference Learning for Large Language Models
 * A Dense Reward View on Aligning Text-to-Image Diffusion with Preference
 * Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data
-* Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation
 * Token-level Direct Preference Optimization
 * Feedback Efficient Online Fine-Tuning of Diffusion Models
-* A Minimaximalist Approach to Reinforcement Learning from Human Feedback
-* Nash Learning from Human Feedback
 * Provably Robust DPO: Aligning Language Models with Noisy Feedback
 * ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback
 * BRAIn: Bayesian Reward-conditioned Amortized Inference for natural language generation from feedback
