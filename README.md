@@ -28,7 +28,6 @@ The collection of awesome papers on alignment of diffusion model.
 
 * DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback
 * Flava: A foundational language and vision alignment model
-* Text-To-Concept (and Back) via Cross-Model Alignment
 * Video Diffusion Alignment via Reward Gradients
 * Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization
 
@@ -36,7 +35,6 @@ The collection of awesome papers on alignment of diffusion model.
 
 * Learning-to-Rank with Partitioned Preference: Fast Estimation for the Plackett-Luce Model
 * Direct Preference Optimization: Your Language Model is Secretly a Reward Model
-* RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
 * Preference Ranking Optimization for Human Alignment
 * Contrastive Preference Learning: Learning from Human Feedback without RL
 * Constitutional AI: Harmlessness from AI Feedback
@@ -60,9 +58,55 @@ The collection of awesome papers on alignment of diffusion model.
 * Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs
 * Generalized Preference Optimization: A Unified Approach to Offline Alignment
 * Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community
+* Nash Learning from Human Feedback
+* Human Alignment of Large Language Models through Online Preference Optimisation
+* Generalized Preference Optimization: A Unified Approach to Offline Alignment
+* Active Preference Learning for Large Language Models
+* Token-level Direct Preference Optimization
+* Dense Reward for Free in Reinforcement Learning from Human Feedback
+* RLVF: Learning from Verbal Feedback without Overgeneralization
+* Coactive Learning for Large Language Models using Implicit User Feedback
+* BRAIn: Bayesian Reward-conditioned Amortized Inference for natural language generation from feedback
+
+## Understanding and Comparative Analysis
+
+* A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity
+* Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study
+* Understanding the Learning Dynamics of Alignment with Human Feedback
+* Fundamental Limitations of Alignment in Large Language Models
+* Long Is More for Alignment: A Simple but Tough-to-Beat Baseline for Instruction Fine-Tuning
+* Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences
+* Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint
+* Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data
+
+
+
+## Related Problem of Human Alignment
+### Efficiency of Alignment
+* Decoding-time Realignment of Language Models
+* Towards Efficient Exact Optimization of Language Model Alignment
+* Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback
+* Feedback Efficient Online Fine-Tuning of Diffusion Models
+
+### RLAIF
+* Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation
+* RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
+* ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback
+* RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
+
+### Diverse and Changing Preferences
+* AI Alignment with Changing and Influenceable Reward Functions
+* Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment
+* Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback
+* MaxMin-RLHF: Alignment with Diverse Human Preferences
+* Position: A Roadmap to Pluralistic Alignment
+* Provably Robust DPO: Aligning Language Models with Noisy Feedback
+
   
 ### Security
+
 * Visual Adversarial Examples Jailbreak Aligned Large Language Models, AAAI 2024, Oral
+* Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications
   
 ## Evaluation
 
@@ -75,52 +119,12 @@ The collection of awesome papers on alignment of diffusion model.
 * Holistic Evaluation of Text-to-Image Models, NeurIPS2023
 * Measuring style similarity in diffusion models
 * Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation
+* Quality Diversity through Human Feedback: Towards Open-Ended Diversity-Driven Optimization
 
 ## Prompt Optimization
+
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization
 * Optimizing Prompts for Text-to-Image Generation
 * Model-Agnostic Human Preference Inversion in Diffusion Models
 * RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions
 * Dynamic Prompt Optimizing for Text-to-Image Generation
- 
-
-## ICML 2024
-### Oral
-* A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity
-* Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study
-
-### Spotlight
-* Decoding-time Realignment of Language Models
-* Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation
-* Model Alignment as Prospect Theoretic Optimization
-* Nash Learning from Human Feedback
-
-### Poster
-* AI Alignment with Changing and Influenceable Reward Functions
-* Understanding the Learning Dynamics of Alignment with Human Feedback
-* Fundamental Limitations of Alignment in Large Language Models
-* Human Alignment of Large Language Models through Online Preference Optimisation
-* Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment
-* Long Is More for Alignment: A Simple but Tough-to-Beat Baseline for Instruction Fine-Tuning
-* Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback
-* MaxMin-RLHF: Alignment with Diverse Human Preferences
-* Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications
-* Towards Efficient Exact Optimization of Language Model Alignment
-* Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback
-* Generalized Preference Optimization: A Unified Approach to Offline Alignment
-* Position: A Roadmap to Pluralistic Alignment
-* Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences
-* Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint
-* Active Preference Learning for Large Language Models
-* A Dense Reward View on Aligning Text-to-Image Diffusion with Preference
-* Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data
-* Token-level Direct Preference Optimization
-* Feedback Efficient Online Fine-Tuning of Diffusion Models
-* Provably Robust DPO: Aligning Language Models with Noisy Feedback
-* ULTRAFEEDBACK: Boosting Language Models with Scaled AI Feedback
-* BRAIn: Bayesian Reward-conditioned Amortized Inference for natural language generation from feedback
-* RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback
-* RLVF: Learning from Verbal Feedback without Overgeneralization
-* Coactive Learning for Large Language Models using Implicit User Feedback
-* Quality Diversity through Human Feedback: Towards Open-Ended Diversity-Driven Optimization
-* Dense Reward for Free in Reinforcement Learning from Human Feedback
