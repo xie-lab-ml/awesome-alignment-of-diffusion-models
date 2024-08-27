@@ -60,13 +60,13 @@ The collection of awesome papers on alignment of diffusion model.
 * Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community
 * Nash Learning from Human Feedback
 * Human Alignment of Large Language Models through Online Preference Optimisation
-* Generalized Preference Optimization: A Unified Approach to Offline Alignment
 * Active Preference Learning for Large Language Models
 * Token-level Direct Preference Optimization
 * Dense Reward for Free in Reinforcement Learning from Human Feedback
 * RLVF: Learning from Verbal Feedback without Overgeneralization
 * Coactive Learning for Large Language Models using Implicit User Feedback
 * BRAIn: Bayesian Reward-conditioned Amortized Inference for natural language generation from feedback
+* BOND: Aligning LLMs with Best-of-N Distillation
 
 ## Understanding and Comparative Analysis
 
