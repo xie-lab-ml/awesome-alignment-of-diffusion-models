@@ -122,3 +122,19 @@ If you are interested in alignment of diffusion mdoels, please refer to our surv
 * Holistic Evaluation of Text-to-Image Models
 * LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation
 * Measuring style similarity in diffusion models
+
+
+# Citing
+
+If you find the paper list useful for your research, you are highly welcomed to cite our survey paper on this topic！
+
+
+```
+@article{liu2024alignment,
+  title = {Alignment of Diffusion Models: Fundamentals, Challenges, and Future},
+  author = {Liu, Buhua and Shao, Shitong and Li, Bao and Bai, Lichen, and Xu, Zhiqiang and Xiong, Haoyi and Kwok, James and Helal, Sumi and Xie, Zeke},
+  journal = {arXiv preprint arXiv:2409.07253},
+  year = {2024}
+}
+```
+
