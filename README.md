@@ -1,6 +1,8 @@
 # Awesome Alignment of Diffusion Models
 
-The collection of awesome papers on alignment of diffusion models.
+The collection of awesome papers on alignment of diffusion models. 
+
+If you are interested in alignment of diffusion mdoels, please refer to our survery paper "[Alignment of Diffusion Models: Fundamentals, Challenges, and Future](https://arxiv.org/pdf/2409.07253)", which is the first known survey on this topic.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zeke-xie/awesome-alignment-of-diffusion-models)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
