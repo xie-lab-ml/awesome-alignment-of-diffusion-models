@@ -2,7 +2,9 @@
 
 The collection of awesome papers on alignment of diffusion models. 
 
-If you are interested in alignment of diffusion mdoels, please refer to our survery paper "[Alignment of Diffusion Models: Fundamentals, Challenges, and Future](https://arxiv.org/pdf/2409.07253)", which is the first known survey on this topic.
+If you are interested in alignment of diffusion mdoels, please refer to our survery paper "[Alignment of Diffusion Models: Fundamentals, Challenges, and Future](https://arxiv.org/pdf/2409.07253)", which is the first survey on this topic to our knowledge.
+
+We hope to enjoy the adventure of exploring alignment and diffusion models with more researchers. Corrections and suggestions are welcomed.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zeke-xie/awesome-alignment-of-diffusion-models)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -24,7 +26,7 @@ If you are interested in alignment of diffusion mdoels, please refer to our surv
 * Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step
 * Aligning Diffusion Models by Optimizing Human Utility
 
-### Training-Free 
+### Training-Free Implicit Alignment
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization
 * Optimizing Prompts for Text-to-Image Generation
 * Model-Agnostic Human Preference Inversion in Diffusion Models
