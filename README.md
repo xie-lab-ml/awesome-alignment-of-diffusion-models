@@ -1,12 +1,12 @@
 # Awesome Alignment of Diffusion Models
 
-The collection of awesome papers on alignment of diffusion model.
+The collection of awesome papers on alignment of diffusion models.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/zeke-xie/awesome-alignment-of-diffusion-models)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-## Human Alignment of Diffusion Models
+## Alignment of Diffusion Models
 ### RLHF
 * Aligning Text-to-Image Models using Human Feedback
 * ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation
@@ -29,9 +29,10 @@ The collection of awesome papers on alignment of diffusion model.
 * RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions
 * Dynamic Prompt Optimizing for Text-to-Image Generation
 * Towards Better Text-to-Image Generation Alignment via Attention Modulation
+* Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization
 
 
-### Beyond Text-to-Image Diffusion Models Alignment
+### Alignment Beyond Text-to-Image Diffusion Models
 * Video Diffusion Alignment via Reward Gradients
 * Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization
 * DreamReward- Text-to-3D Generation with Human Preference
@@ -40,7 +41,7 @@ The collection of awesome papers on alignment of diffusion model.
 * AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model
 * Alignment is Key for Applying Diffusion Models to Retrosynthesis
 
-## Fundamentals of Human Alignments 
+## Fundamentals of Human Alignment
 ### Preference Modeling 
 * Rank analysis of incomplete block designs: I. The method of paired comparisons
 * Individual choice behavior
@@ -64,7 +65,7 @@ The collection of awesome papers on alignment of diffusion model.
 * Preference Ranking Optimization for Human Alignment
 * Lipo: Listwise preference optimization through learning-to-rank.
 
-## Challenges 
+## Challenges and Opportunities of Diffusion Alignment
 * Scaling laws for reward model overoptimization
 * AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback
 * Stepwise Alignment for Constrained Language Model Policy Optimization
