@@ -32,14 +32,13 @@ The collection of awesome papers on alignment of diffusion model.
 
 
 ### Beyond Text-to-Image Diffusion Models Alignment
-* DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback
 * Video Diffusion Alignment via Reward Gradients
 * Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization
 * DreamReward- Text-to-3D Generation with Human Preference
 * InstructVideo: Instructing Video Diffusion Models with Human Feedback
-* HIVE: Harnessing Human Feedback for Instructional Visual Editing.
-* RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback
+* HIVE: Harnessing Human Feedback for Instructional Visual Editing
 * AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model
+* Alignment is Key for Applying Diffusion Models to Retrosynthesis
 
 ## Fundamentals of Human Alignments 
 ### Preference Modeling 
