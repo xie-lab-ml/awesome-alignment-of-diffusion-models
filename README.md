@@ -69,7 +69,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Preference Ranking Optimization for Human Alignment
 * Lipo: Listwise preference optimization through learning-to-rank.
 
-## Challenges and Opportunities of Diffusion Alignment
+## Potential Challenges and Opportunities of Diffusion Alignment
 * Scaling laws for reward model overoptimization
 * AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback
 * Stepwise Alignment for Constrained Language Model Policy Optimization
