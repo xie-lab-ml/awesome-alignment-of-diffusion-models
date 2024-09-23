@@ -12,6 +12,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 
 ## Alignment of Diffusion Models
 ### RLHF
+* ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback
 * Aligning Text-to-Image Models using Human Feedback
 * ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation
 * DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models
