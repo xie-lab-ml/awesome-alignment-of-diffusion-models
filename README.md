@@ -10,7 +10,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-## Alignment of Diffusion Models
+## Alignment Techniques of Diffusion Models
 ### RLHF
 * Aligning Text-to-Image Models using Human Feedback
 * ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation
@@ -44,6 +44,24 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * HIVE: Harnessing Human Feedback for Instructional Visual Editing
 * AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model
 * Alignment is Key for Applying Diffusion Models to Retrosynthesis
+
+
+## Benchmarks and Evaluation 
+* Human Preference Score: Better Aligning Text-to-Image Models with Human Preference
+* Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis
+* Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation
+* ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation
+* Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community
+* Learning multi-dimensional human preference for text-to-image generation
+* Rich Human Feedback for Text to Image Generation
+* Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation
+* DALL-Eval: Probing the reasoning skills and social biases of text-to-image generative transformers
+* GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment
+* VPGen & VPEval: Visual Programming for Text-to-Image Generation and Evaluation
+* Holistic Evaluation of Text-to-Image Models
+* LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation
+* Measuring style similarity in diffusion models
+  
 
 ## Fundamentals of Human Alignment
 ### Preference Modeling 
@@ -108,22 +126,6 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Feedback Efficient Online Fine-Tuning of Diffusion Models
 * Position: A Roadmap to Pluralistic Alignment
 * Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback
-
-## Benchmarks and Evaluation 
-* Human Preference Score: Better Aligning Text-to-Image Models with Human Preference
-* Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis
-* Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation
-* ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation
-* Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community
-* Learning multi-dimensional human preference for text-to-image generation
-* Rich Human Feedback for Text to Image Generation
-* Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation
-* DALL-Eval: Probing the reasoning skills and social biases of text-to-image generative transformers
-* GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment
-* VPGen & VPEval: Visual Programming for Text-to-Image Generation and Evaluation
-* Holistic Evaluation of Text-to-Image Models
-* LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation
-* Measuring style similarity in diffusion models
 
 
 # Citing
