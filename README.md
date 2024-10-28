@@ -25,6 +25,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * A Dense Reward View on Aligning Text-to-Image Diffusion with Preference
 * Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step
 * Aligning Diffusion Models by Optimizing Human Utility
+* Scalable Ranked Preference Optimization for Text-to-Image Generation
 
 ### Training-Free Implicit Alignment
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization
