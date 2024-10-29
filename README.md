@@ -72,6 +72,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * The analysis of permutations
 * Learning-to-Rank with Partitioned Preference: Fast Estimation for the Plackett-Luce Model
 * Models of human preference for learning reward functions
+* Beyond Preferences in AI Alignment
 
 ### RLHF 
 * Training language models to follow instructions with human feedback
