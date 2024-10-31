@@ -17,7 +17,9 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models
 * Aligning Text-to-Image Diffusion Models with Reward Backpropagation
 * Directly Fine-Tuning Diffusion Models on Differentiable Rewards
-* PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models
+* PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models 
+* Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review
+* Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control
 
 ### DPO 
 * Diffusion Model Alignment Using Direct Preference Optimization
@@ -36,6 +38,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Dynamic Prompt Optimizing for Text-to-Image Generation
 * Towards Better Text-to-Image Generation Alignment via Attention Modulation
 * Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization
+* Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
@@ -98,7 +101,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints
 * Self-Play Preference Optimization for Language Model Alignment
 * SimPO: Simple Preference Optimization with a Reference-Free Reward
-* What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning, ICLR2024
+* What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning
 * Generalized Preference Optimization: A Unified Approach to Offline Alignment
 * Nash Learning from Human Feedback
 * Human Alignment of Large Language Models through Online Preference Optimisation
