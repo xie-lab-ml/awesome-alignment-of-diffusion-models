@@ -71,18 +71,18 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 
 ## Fundamentals of Human Alignment
 ### Preference Modeling 
-* Rank analysis of incomplete block designs: I. The method of paired comparisons. Biometrika 1952, [[pdf]](https://www.jstor.org/stable/2334029)
-* Individual choice behavior. John Wiley 1959, [[pdf]](https://psycnet.apa.org/record/1960-03588-000)
-* The analysis of permutations. Journal of the Royal Statistical Society. Series C (Applied Statistics) 1975, [[pdf]](https://www.jstor.org/stable/2346567)
+* Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons. Biometrika 1952, [[pdf]](https://www.jstor.org/stable/2334029)
+* Individual Choice Behavior. John Wiley 1959, [[pdf]](https://psycnet.apa.org/record/1960-03588-000)
+* The Analysis of Permutations. Journal of the Royal Statistical Society. Series C (Applied Statistics) 1975, [[pdf]](https://www.jstor.org/stable/2346567)
 * Learning-to-Rank with Partitioned Preference: Fast Estimation for the Plackett-Luce Model. AISTATS, [[pdf]](https://arxiv.org/pdf/2006.05067)
-* Models of human preference for learning reward functions. arXiv:2206, [[pdf]](https://arxiv.org/pdf/2206.02231)
+* Models of Human Preference for Learning Reward Functions. arXiv:2206, [[pdf]](https://arxiv.org/pdf/2206.02231)
 * Beyond Preferences in AI Alignment. arXiv:2408, [[pdf]](https://arxiv.org/pdf/2408.16984)
 
 ### RLHF 
 * Training language models to follow instructions with human feedback. NeurIPS 2022, [[pdf]](https://arxiv.org/pdf/2203.02155)
 * Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs. ACL 2024, [[pdf]](https://arxiv.org/pdf/2402.14740)
-* Raft: Reward ranked finetuning for generative foundation model alignment. TMLR 2024, [[pdf]](https://arxiv.org/pdf/2304.06767)
-* Rrhf: Rank responses to align language models with human feedback without tears. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2304.05302)
+* RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment. TMLR 2024, [[pdf]](https://arxiv.org/pdf/2304.06767)
+* RRHF: Rank Responses to Align Language Models with Human Feedback without tears. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2304.05302)
 * Constitutional AI: Harmlessness from AI Feedback. arXiv:2212, [[pdf]](https://arxiv.org/pdf/2212.08073)
 * RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2309.00267)
 
@@ -92,7 +92,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * ORPO: Monolithic Preference Optimization without Reference Model. arXiv:2403, [[pdf]](https://arxiv.org/pdf/2403.07691)
 * KTO: Model Alignment as Prospect Theoretic Optimization. 	ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.01306)
 * Preference Ranking Optimization for Human Alignment. AAAI 2024, [[pdf]](https://arxiv.org/pdf/2306.17492)
-* Lipo: Listwise preference optimization through learning-to-rank. arXiv:2402, [[pdf]](https://arxiv.org/pdf/2402.01878)
+* LiPO: Listwise Preference Optimization through Learning-to-Rank. arXiv:2402, [[pdf]](https://arxiv.org/pdf/2402.01878)
 
 ## Potential Challenges and Opportunities of Diffusion Alignment
 * Scaling laws for reward model overoptimization. ICML 2023, [[pdf]](https://arxiv.org/pdf/2210.10760)
