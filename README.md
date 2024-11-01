@@ -12,11 +12,11 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 
 ## Alignment Techniques of Diffusion Models
 ### RLHF
-* Aligning Text-to-Image Models using Human Feedback. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2302.12192)
 * ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2304.05977)
 * DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models, NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2305.16381)
-* Directly Fine-Tuning Diffusion Models on Differentiable Rewards. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2309.17400)
+* Aligning Text-to-Image Models using Human Feedback. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2302.12192)
 * Aligning Text-to-Image Diffusion Models with Reward Backpropagation. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2310.03739v2)
+* Directly Fine-Tuning Diffusion Models on Differentiable Rewards. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2309.17400)
 * PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2402.08714)
 * Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2402.15194)
 * Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.13734)
@@ -35,7 +35,6 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Optimizing Prompts for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2212.09611)
 * RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions. CHI 2023, [[pdf]](https://arxiv.org/pdf/2302.09466)
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization. TMLR 2024, [[pdf]](https://arxiv.org/pdf/2403.17804)
-* Model-Agnostic Human Preference Inversion in Diffusion Models. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.00879)
 * Dynamic Prompt Optimizing for Text-to-Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2404.04095)
 * Towards Better Text-to-Image Generation Alignment via Attention Modulation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.13899)
 * Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14041)
@@ -43,8 +42,8 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
-* HIVE: Harnessing Human Feedback for Instructional Visual Editing. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2303.09618)
 * AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2310.02054)
+* HIVE: Harnessing Human Feedback for Instructional Visual Editing. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2303.09618)
 * InstructVideo: Instructing Video Diffusion Models with Human Feedback. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2312.12490)
 * DreamReward: Text-to-3D Generation with Human Preference. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2403.14613)
 * Alignment is Key for Applying Diffusion Models to Retrosynthesis. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2405.17656)
@@ -62,11 +61,11 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2306.09341)
 * GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment. NeurIPS 2023 Datasets and Benchmarks, [[pdf]](https://arxiv.org/pdf/2310.11513)
 * Holistic Evaluation of Text-to-Image Models. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2311.04287)
-* Rich Human Feedback for Text to Image Generation. CVPR 2024 Best Paper, [[pdf]](https://arxiv.org/pdf/2312.10240)
-* Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community. ICLR 2024 Spotlight, [[pdf]](https://arxiv.org/pdf/2402.09872)
+* Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2402.09872)
+* Rich Human Feedback for Text to Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2312.10240)
+* Learning Multi-Dimensional Human Preference for Text-to-Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2405.14705)
 * Measuring Style Similarity in Diffusion Models. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.01292)
 * Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.15100)
-* Learning Multi-Dimensional Human Preference for Text-to-Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2405.14705)
   
 
 ## Fundamentals of Human Alignment
@@ -95,43 +94,26 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * ORPO: Monolithic Preference Optimization without Reference Model. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2403.07691)
 
 ## Potential Challenges and Opportunities of Diffusion Alignment
-* The Alignment Problem from a Deep Learning Perspective. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2209.00626)
 * Scaling Laws for Reward Model Overoptimization. ICML 2023, [[pdf]](https://arxiv.org/pdf/2210.10760)
-* Fundamental Limitations of Alignment in Large Language Models. ICML 2024, [[pdf]](https://arxiv.org/pdf/2304.11082)
-* AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2305.14387)
-* Visual Adversarial Examples Jailbreak Aligned Large Language Models. AAAI 2024 Oral, [[pdf]](https://arxiv.org/pdf/2306.13213)
-* Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints. ICLR 2024 Spotlight, [[pdf]](https://arxiv.org/pdf/2309.16240)
-* UltraFeedback: Boosting Language Models with Scaled AI Feedback. ICML 2024 , [[pdf]](https://arxiv.org/pdf/2310.01377)
-* Nash Learning from Human Feedback. ICML 2024 Spotlight, [[pdf]](https://arxiv.org/pdf/2312.00886)
+* The Alignment Problem from a Deep Learning Perspective. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2209.00626)
+* Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2309.16240)
+* Nash Learning from Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2312.00886)
 * Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint. ICML 2024, [[pdf]](https://arxiv.org/pdf/2312.11456)
-* What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2312.15685)
 * A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity. ICML 2024, [[pdf]](https://arxiv.org/pdf/2401.01967)
-* Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2401.11458)
 * Dense Reward for Free in Reinforcement Learning from Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.00782)
-* Towards Efficient Exact Optimization of Language Model Alignment. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.00856)
-* BRAIn: Bayesian Reward-conditioned Amortized Inference for natural language generation from feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.02479)
-* Decoding-time Realignment of Language Models. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.02992)
 * Position: A Roadmap to Pluralistic Alignment. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05070)
 * Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05162)
-* Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05699)
 * MaxMin-RLHF: Alignment with Diverse Human Preferences. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.08925)
 * Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.10207)
 * Feedback Efficient Online Fine-Tuning of Diffusion Models. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.16359)
-* Provably Robust DPO: Aligning Language Models with Noisy Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2403.00409)
 * Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences. ICML 2024, [[pdf]](https://arxiv.org/pdf/2403.01857)
 * Generalized Preference Optimization: A Unified Approach to Offline Alignment. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05749)
-* Active Preference Learning for Large Language Models. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.08114)
 * Human Alignment of Large Language Models through Online Preference Optimisation. ICML 2024, [[pdf]](https://arxiv.org/pdf/2403.08635)
 * Understanding the Learning Dynamics of Alignment with Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2403.18742)
 * Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10271)
 * Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10719)
-* Stepwise Alignment for Constrained Language Model Policy Optimization. NeurIPS 2024, [[pdf]](https://arxiv.org/pdf/2404.11049)
-* Token-level Direct Preference Optimization. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.11999)
 * Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.14367)
-* Self-Play Preference Optimization for Language Model Alignment. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2405.00675)
-* SimPO: Simple Preference Optimization with a Reference-Free Reward. NeurIPS 2024, [[pdf]](https://arxiv.org/pdf/2405.14734)
 * AI Alignment with Changing and Influenceable Reward Functions. ICML 2024, [[pdf]](https://arxiv.org/pdf/2405.17713)
-* Coactive Learning for Large Language Models using Implicit User Feedback. ICML 2024, [[pdf]](https://openreview.net/pdf?id=rVWsTjMW1m)
 * BOND: Aligning LLMs with Best-of-N Distillation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14622)
 
 
