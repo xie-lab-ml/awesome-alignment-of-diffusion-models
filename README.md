@@ -18,6 +18,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Aligning Text-to-Image Diffusion Models with Reward Backpropagation. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2310.03739v2)
 * Directly Fine-Tuning Diffusion Models on Differentiable Rewards. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2309.17400)
 * PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2402.08714)
+* Feedback Efficient Online Fine-Tuning of Diffusion Models. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.16359)
 * Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2402.15194)
 * Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.13734)
 
@@ -104,7 +105,6 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05162)
 * MaxMin-RLHF: Alignment with Diverse Human Preferences. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.08925)
 * Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.10207)
-* Feedback Efficient Online Fine-Tuning of Diffusion Models. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.16359)
 * Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences. ICML 2024, [[pdf]](https://arxiv.org/pdf/2403.01857)
 * Generalized Preference Optimization: A Unified Approach to Offline Alignment. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05749)
 * Human Alignment of Large Language Models through Online Preference Optimisation. ICML 2024, [[pdf]](https://arxiv.org/pdf/2403.08635)
