@@ -99,7 +99,6 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2309.16240)
 * Nash Learning from Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2312.00886)
 * Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint. ICML 2024, [[pdf]](https://arxiv.org/pdf/2312.11456)
-* A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity. ICML 2024, [[pdf]](https://arxiv.org/pdf/2401.01967)
 * Dense Reward for Free in Reinforcement Learning from Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.00782)
 * Position: A Roadmap to Pluralistic Alignment. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05070)
 * Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05162)
@@ -112,8 +111,6 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Understanding the Learning Dynamics of Alignment with Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2403.18742)
 * Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10271)
 * Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10719)
-* Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.14367)
-* AI Alignment with Changing and Influenceable Reward Functions. ICML 2024, [[pdf]](https://arxiv.org/pdf/2405.17713)
 * BOND: Aligning LLMs with Best-of-N Distillation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14622)
 
 
