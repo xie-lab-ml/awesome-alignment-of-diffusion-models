@@ -31,15 +31,19 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2406.04314)
 * Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.03190)
 * Scalable Ranked Preference Optimization for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.18013)
+* Aligning Few-Step Diffusion Models with Dense Reward Difference Learning. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.11727)
+
 
 ### Training-Free Implicit Alignment
 * Optimizing Prompts for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2212.09611)
 * RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions. CHI 2023, [[pdf]](https://arxiv.org/pdf/2302.09466)
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization. TMLR 2024, [[pdf]](https://arxiv.org/pdf/2403.17804)
 * Dynamic Prompt Optimizing for Text-to-Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2404.04095)
+* ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization. NeurIPS 2024, [[pdf]](https://arxiv.org/pdf/2406.04312)
 * Towards Better Text-to-Image Generation Alignment via Attention Modulation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.13899)
 * Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14041)
 * Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2408.08252)
+* Inference-Time Alignment of Diffusion Models with Direct Noise Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2405.18881)
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
@@ -112,6 +116,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10271)
 * Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10719)
 * BOND: Aligning LLMs with Best-of-N Distillation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14622)
+* Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases, [[pdf]](https://arxiv.org/pdf/2402.08552)
 
 
 # Citing
