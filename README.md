@@ -21,6 +21,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Feedback Efficient Online Fine-Tuning of Diffusion Models. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.16359)
 * Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2402.15194)
 * Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.13734)
+* Aligning Few-Step Diffusion Models with Dense Reward Difference Learning. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.11727)
 
 ### DPO 
 * Diffusion Model Alignment Using Direct Preference Optimization. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2311.12908)
@@ -31,7 +32,6 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2406.04314)
 * Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.03190)
 * Scalable Ranked Preference Optimization for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.18013)
-* Aligning Few-Step Diffusion Models with Dense Reward Difference Learning. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.11727)
 
 
 ### Training-Free Implicit Alignment
