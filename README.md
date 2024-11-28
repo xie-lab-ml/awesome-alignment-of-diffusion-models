@@ -32,6 +32,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2406.04314)
 * Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.03190)
 * Scalable Ranked Preference Optimization for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.18013)
+* Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.14871)
 
 
 ### Training-Free Implicit Alignment
@@ -55,6 +56,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Alignment is Key for Applying Diffusion Models to Retrosynthesis. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2405.17656)
 * Video Diffusion Alignment via Reward Gradients. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.08737)
 * Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.01648)
+* VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.15115)
 
 
 
@@ -71,8 +73,9 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2402.09872)
 * Rich Human Feedback for Text to Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2312.10240)
 * Learning Multi-Dimensional Human Preference for Text-to-Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2405.14705)
+* Multimodal Large Language Models Make Text-to-Image Generative Models Align Better. NeurIPS 2024, [[pdf]](https://openreview.net/pdf?id=IRXyPm9IPW)
 * Measuring Style Similarity in Diffusion Models. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.01292)
-* Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.15100)
+
   
 
 ## Fundamentals of Human Alignment
