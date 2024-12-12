@@ -11,7 +11,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 ## Alignment Techniques of Diffusion Models
-### RLHF
+### RLHF/RLAIF
 * ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2304.05977)
 * DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models, NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2305.16381)
 * Aligning Text-to-Image Models using Human Feedback. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2302.12192)
