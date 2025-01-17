@@ -110,6 +110,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * KTO: Model Alignment as Prospect Theoretic Optimization. 	ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.01306)
 * LiPO: Listwise Preference Optimization through Learning-to-Rank. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2402.01878)
 * ORPO: Monolithic Preference Optimization without Reference Model. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2403.07691)
+* DPO Kernels: A Semantically-Aware, Kernel-Enhanced, and Divergence-Rich Paradigm for Direct Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2501.03271)
 
 ## Potential Challenges and Opportunities of Diffusion Alignment
 * Scaling Laws for Reward Model Overoptimization. ICML 2023, [[pdf]](https://arxiv.org/pdf/2210.10760)
@@ -120,6 +121,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Dense Reward for Free in Reinforcement Learning from Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.00782)
 * Position: A Roadmap to Pluralistic Alignment. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05070)
 * Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.05162)
+* Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.08552)
 * MaxMin-RLHF: Alignment with Diverse Human Preferences. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.08925)
 * Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.10207)
 * Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences. ICML 2024, [[pdf]](https://arxiv.org/pdf/2403.01857)
@@ -129,7 +131,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10271)
 * Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10719)
 * BOND: Aligning LLMs with Best-of-N Distillation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14622)
-* Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases, [[pdf]](https://arxiv.org/pdf/2402.08552)
+* Does RLHF Scale? Exploring the Impacts From Data, Model, and Method. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.06000)
 
 
 # Citing
