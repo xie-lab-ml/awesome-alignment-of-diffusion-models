@@ -59,7 +59,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2310.02054)
 * HIVE: Harnessing Human Feedback for Instructional Visual Editing. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2303.09618)
 * InstructVideo: Instructing Video Diffusion Models with Human Feedback. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2312.12490)
-* DreamReward: Text-to-3D Generation with Human Preference. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2403.14613)
+* DreamReward: Text-to-3D Generation with Human Preference. ECCV 2024, [[pdf]](https://arxiv.org/pdf/2403.14613)
 * Alignment is Key for Applying Diffusion Models to Retrosynthesis. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2405.17656)
 * Video Diffusion Alignment via Reward Gradients. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.08737)
 * Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.01648)
