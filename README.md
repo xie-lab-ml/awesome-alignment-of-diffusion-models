@@ -23,6 +23,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2402.15194)
 * Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.13734)
 * Aligning Few-Step Diffusion Models with Dense Reward Difference Learning. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.11727)
+* Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.15247)
 
 ### DPO 
 * Diffusion Model Alignment Using Direct Preference Optimization. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2311.12908)
@@ -34,6 +35,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.03190)
 * Scalable Ranked Preference Optimization for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.18013)
 * Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.14871)
+* PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.03177)
 * SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.10493)
 
 
@@ -50,8 +52,10 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Golden Noise for Diffusion Models: A Learning Framework. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.09502)
 * DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.00759)
 * Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection. arXiv 2024, [[pdf]](https://arxiv.org/abs/2412.10891)
+* ReNeg: Learning Negative Embedding with Reward Guidance. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.19637)
 * Alignment without Over-optimization: Training-Free Solution for Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.05803)
 * A General Framework for Inference-time Scaling and Steering of Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06848)
+* Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.09732)
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
@@ -60,12 +64,17 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * HIVE: Harnessing Human Feedback for Instructional Visual Editing. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2303.09618)
 * InstructVideo: Instructing Video Diffusion Models with Human Feedback. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2312.12490)
 * DreamReward: Text-to-3D Generation with Human Preference. ECCV 2024, [[pdf]](https://arxiv.org/pdf/2403.14613)
+* Tango 2: Aligning diffusion-based text-to-audio generations through direct preference optimization. ACM MM 2024, [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681688)
+* Videoscore: Building automatic metrics to simulate fine-grained human feedback for video generation. EMNLP 2024, [[pdf]](https://arxiv.org/pdf/2406.15252)
 * Alignment is Key for Applying Diffusion Models to Retrosynthesis. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2405.17656)
 * Video Diffusion Alignment via Reward Gradients. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.08737)
 * Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.01648)
 * VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.15115)
 * LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.04814)
+* SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.05095)
 * VideoDPO: Omni-Preference Alignment for Video Diffusion Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.14167)
+* OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.15159)
+* VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.21059)
 
 
 
@@ -131,6 +140,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Position: Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10271)
 * Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study. ICML 2024, [[pdf]](https://arxiv.org/pdf/2404.10719)
 * BOND: Aligning LLMs with Best-of-N Distillation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14622)
+* Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.00357)
 * Does RLHF Scale? Exploring the Impacts From Data, Model, and Method. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.06000)
 
 
