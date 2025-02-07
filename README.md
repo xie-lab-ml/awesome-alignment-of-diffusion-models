@@ -52,12 +52,12 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2408.08252)
 * Golden Noise for Diffusion Models: A Learning Framework. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.09502)
 * DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.00759)
-* Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection. arXiv 2024, [[pdf]](https://arxiv.org/abs/2412.10891)
 * ReNeg: Learning Negative Embedding with Reward Guidance. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.19637)
 * Alignment without Over-optimization: Training-Free Solution for Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.05803)
 * A General Framework for Inference-time Scaling and Steering of Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06848)
-* Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.09685）
+* Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.09685)
 * Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.09732)
+* Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection. ICLR 2025, [[pdf]](https://arxiv.org/abs/2412.10891)
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
