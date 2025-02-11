@@ -24,7 +24,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.13734)
 * Aligning Few-Step Diffusion Models with Dense Reward Difference Learning. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.11727)
 * Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.15247)
-* Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2501.06481)
+* Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06481)
 
 ### DPO 
 * Diffusion Model Alignment Using Direct Preference Optimization. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2311.12908)
@@ -38,6 +38,8 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.14871)
 * PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.03177)
 * SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.10493)
+* Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
+* Calibrated Multi-Preference Optimization for Aligning Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.02588)
 
 
 ### Training-Free Implicit Alignment
@@ -77,6 +79,8 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * VideoDPO: Omni-Preference Alignment for Video Diffusion Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.14167)
 * OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.15159)
 * VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.21059)
+* Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.19252)
+* HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01690)
 
 
 ## Benchmarks and Evaluation 
@@ -92,6 +96,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2402.09872)
 * Rich Human Feedback for Text to Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2312.10240)
 * Learning Multi-Dimensional Human Preference for Text-to-Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2405.14705)
+* Evaluating Text-to-Visual Generation with Image-to-Text Generation. ECCV 2024, [[pdf]](https://arxiv.org/pdf/2404.01291)
 * Multimodal Large Language Models Make Text-to-Image Generative Models Align Better. NeurIPS 2024, [[pdf]](https://openreview.net/pdf?id=IRXyPm9IPW)
 * Measuring Style Similarity in Diffusion Models. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.01292)
 * T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation. TPAMI 2025, [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10847875)
