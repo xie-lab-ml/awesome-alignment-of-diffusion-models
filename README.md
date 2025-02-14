@@ -42,7 +42,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Calibrated Multi-Preference Optimization for Aligning Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.02588)
 
 
-### Training-Free Implicit Alignment
+### Training-Free/Test-Time Alignment
 * Optimizing Prompts for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2212.09611)
 * RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions. CHI 2023, [[pdf]](https://arxiv.org/pdf/2302.09466)
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization. TMLR 2024, [[pdf]](https://arxiv.org/pdf/2403.17804)
