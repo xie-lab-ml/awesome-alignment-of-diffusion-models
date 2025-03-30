@@ -38,8 +38,13 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.14871)
 * PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.03177)
 * SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.10493)
+* DSPO: Direct Score Preference Optimization for Diffusion Model Alignment. ICLR 2025, [[pdf]](https://openreview.net/forum?id=xyfb9HHvMe)
+* Direct Distributional Optimization for Provable Alignment of Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2502.02954)
+* Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2503.11240)
 * Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
 * Calibrated Multi-Preference Optimization for Aligning Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.02588)
+* D3PO: Preference-Based Alignment of Discrete Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08295)
+* Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
 
 
 ### Training-Free/Test-Time Alignment
@@ -55,11 +60,11 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Golden Noise for Diffusion Models: A Learning Framework. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.09502)
 * DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.00759)
 * ReNeg: Learning Negative Embedding with Reward Guidance. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.19637)
-* Alignment without Over-optimization: Training-Free Solution for Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.05803)
 * A General Framework for Inference-time Scaling and Steering of Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06848)
 * Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.09685)
 * Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.09732)
 * Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection. ICLR 2025, [[pdf]](https://arxiv.org/abs/2412.10891)
+* Test-time Alignment of Diffusion Models without Reward Over-optimization. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2501.05803)
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
