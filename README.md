@@ -32,7 +32,6 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * A Dense Reward View on Aligning Text-to-Image Diffusion with Preference. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.08265)
 * Self-Play Fine-tuning of Diffusion Models for Text-to-image Generation. NeurIPS 2024, [[pdf]](https://arxiv.org/pdf/2402.10210)
 * Aligning Diffusion Models by Optimizing Human Utility. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.04465)
-* Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2406.04314)
 * Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.03190)
 * Scalable Ranked Preference Optimization for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2410.18013)
 * Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.14871)
@@ -40,11 +39,16 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.10493)
 * DSPO: Direct Score Preference Optimization for Diffusion Model Alignment. ICLR 2025, [[pdf]](https://openreview.net/forum?id=xyfb9HHvMe)
 * Direct Distributional Optimization for Provable Alignment of Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2502.02954)
-* Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2503.11240)
-* Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
-* Calibrated Multi-Preference Optimization for Aligning Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.02588)
+* Boost Your Human Image Generation Model via Direct Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.20216)
+* Curriculum Direct Preference Optimization for Diffusion and Consistency Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.13637)
+* Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2406.04314)
+* Personalized Preference Fine-tuning of Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
+* Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2501.06655)
+* Calibrated Multi-Preference Optimization for Aligning Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2502.02588)
+* InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2503.18454)
 * D3PO: Preference-Based Alignment of Discrete Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08295)
 * Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
+
 
 
 ### Training-Free/Test-Time Alignment
@@ -58,13 +62,13 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14041)
 * Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2408.08252)
 * Golden Noise for Diffusion Models: A Learning Framework. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.09502)
-* DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.00759)
 * ReNeg: Learning Negative Embedding with Reward Guidance. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.19637)
 * A General Framework for Inference-time Scaling and Steering of Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06848)
 * Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.09685)
 * Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.09732)
 * Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection. ICLR 2025, [[pdf]](https://arxiv.org/abs/2412.10891)
 * Test-time Alignment of Diffusion Models without Reward Over-optimization. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2501.05803)
+* DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2412.00759)
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
@@ -80,11 +84,11 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.15115)
 * LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.04814)
 * SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.05095)
-* VideoDPO: Omni-Preference Alignment for Video Diffusion Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.14167)
 * OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.15159)
 * VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.21059)
 * Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.19252)
 * HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01690)
+* VideoDPO: Omni-Preference Alignment for Video Diffusion Generation. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2412.14167)
 
 
 ## Benchmarks and Evaluation 
