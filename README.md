@@ -42,7 +42,7 @@ We hope to enjoy the adventure of exploring alignment and diffusion models with 
 * Boost Your Human Image Generation Model via Direct Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.20216)
 * Curriculum Direct Preference Optimization for Diffusion and Consistency Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.13637)
 * Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2406.04314)
-* Personalized Preference Fine-tuning of Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
+* Personalized Preference Fine-tuning of Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2501.06655)
 * Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2501.06655)
 * Calibrated Multi-Preference Optimization for Aligning Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2502.02588)
 * InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2503.18454)
