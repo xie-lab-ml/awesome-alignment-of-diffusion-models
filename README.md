@@ -19,6 +19,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Aligning Text-to-Image Models using Human Feedback. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2302.12192)
 * Aligning Text-to-Image Diffusion Models with Reward Backpropagation. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2310.03739v2)
 * Directly Fine-Tuning Diffusion Models on Differentiable Rewards. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2309.17400)
+* CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching. NeurIPS 2024, [[pdf]](https://arxiv.org/pdf/2404.03653)
 * PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2402.08714)
 * Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.08552)
 * Feedback Efficient Online Fine-Tuning of Diffusion Models. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.16359)
@@ -27,6 +28,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Aligning Few-Step Diffusion Models with Dense Reward Difference Learning. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.11727)
 * Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.15247)
 * Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06481)
+* ADT: Tuning Diffusion Models with Adversarial Supervision. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2504.11423)
 
 ### DPO 
 * Diffusion Model Alignment Using Direct Preference Optimization. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2311.12908)
