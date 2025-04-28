@@ -23,10 +23,14 @@ We try to include recent papers in time, which will be soon added in future revi
 * PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2402.08714)
 * Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.08552)
 * Feedback Efficient Online Fine-Tuning of Diffusion Models. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.16359)
+* Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models. ECCV 2024, [[pdf]](https://arxiv.org/abs/2405.00760)
 * Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2402.15194)
 * Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.13734)
 * Aligning Few-Step Diffusion Models with Dense Reward Difference Learning. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.11727)
 * Reward Fine-Tuning Two-Step Diffusion Models via Learning Differentiable Latent-Space Surrogate Reward. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.15247)
+* Information Theoretic Text-to-Image Alignment. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2405.20759)
+* Improving Long-Text Alignment for Text-to-Image Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2410.11817)
+* Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2412.07775)
 * Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06481)
 * ADT: Tuning Diffusion Models with Adversarial Supervision. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2504.11423)
 
@@ -51,6 +55,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Calibrated Multi-Preference Optimization for Aligning Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2502.02588)
 * InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2503.18454)
 * Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
+* Direct Discriminative Optimization: Your Likelihood-Based Visual Generative Model is Secretly a GAN Discriminator. arXiv 2025, [[pdf]](https://arxiv.org/abs/2503.01103)
 * D3PO: Preference-Based Alignment of Discrete Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08295)
 * Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
 
@@ -67,13 +72,15 @@ We try to include recent papers in time, which will be soon added in future revi
 * Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14041)
 * Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2408.08252)
 * Golden Noise for Diffusion Models: A Learning Framework. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.09502)
+* Preference Alignment for Diffusion Model via Explicit Denoised Distribution Estimation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.14871)
 * ReNeg: Learning Negative Embedding with Reward Guidance. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.19637)
-* A General Framework for Inference-time Scaling and Steering of Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06848)
-* Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.09685)
-* Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.09732)
+* Training-Free Diffusion Model Alignment with Sampling Demons. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2410.05760) 
 * Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection. ICLR 2025, [[pdf]](https://arxiv.org/abs/2412.10891)
 * Test-time Alignment of Diffusion Models without Reward Over-optimization. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2501.05803)
 * DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2412.00759)
+* A General Framework for Inference-time Scaling and Steering of Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06848)
+* Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.09685)
+* Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.09732)
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
@@ -91,9 +98,10 @@ We try to include recent papers in time, which will be soon added in future revi
 * SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.05095)
 * OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.15159)
 * VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.21059)
+* A3D: Does Diffusion Dream about 3D Alignment? ICLR 2025, [[pdf]](https://arxiv.org/pdf/2406.15020)
+* VideoDPO: Omni-Preference Alignment for Video Diffusion Generation. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2412.14167)
 * Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.19252)
 * HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01690)
-* VideoDPO: Omni-Preference Alignment for Video Diffusion Generation. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2412.14167)
 
 
 ## Benchmarks and Evaluation 
@@ -113,6 +121,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Multimodal Large Language Models Make Text-to-Image Generative Models Align Better. NeurIPS 2024, [[pdf]](https://openreview.net/pdf?id=IRXyPm9IPW)
 * Measuring Style Similarity in Diffusion Models. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.01292)
 * T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation. TPAMI 2025, [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10847875)
+* DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2406.16855)
 
   
 
