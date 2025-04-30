@@ -102,6 +102,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * VideoDPO: Omni-Preference Alignment for Video Diffusion Generation. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2412.14167)
 * Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.19252)
 * HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01690)
+* PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment. ICLR 2025 [[pdf]](https://openreview.net/pdf?id=1kFDrYCuSu)
 
 
 ## Benchmarks and Evaluation 
@@ -122,6 +123,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Measuring Style Similarity in Diffusion Models. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.01292)
 * T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation. TPAMI 2025, [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10847875)
 * DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2406.16855)
+* PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment. ICLR 2025 [[pdf]](https://openreview.net/pdf?id=1kFDrYCuSu)
 
   
 
@@ -133,6 +135,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Learning-to-Rank with Partitioned Preference: Fast Estimation for the Plackett-Luce Model. AISTATS 2021, [[pdf]](https://arxiv.org/pdf/2006.05067)
 * Models of Human Preference for Learning Reward Functions. arXiv 2022, [[pdf]](https://arxiv.org/pdf/2206.02231)
 * Beyond Preferences in AI Alignment. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2408.16984)
+* PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment. ICLR 2025 [[pdf]](https://openreview.net/pdf?id=1kFDrYCuSu)
 
 ### RLHF 
 * Training Language Models to Follow Instructions with Human Feedback. NeurIPS 2022, [[pdf]](https://arxiv.org/pdf/2203.02155)
