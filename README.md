@@ -36,7 +36,6 @@ We try to include recent papers in time, which will be soon added in future revi
 
 ### DPO 
 * Diffusion Model Alignment Using Direct Preference Optimization. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2311.12908)
-* Margin-aware Preference Optimization for Aligning Diffusion Models without Reference. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2406.06424)
 * Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2311.13231)
 * A Dense Reward View on Aligning Text-to-Image Diffusion with Preference. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.08265)
 * Self-Play Fine-tuning of Diffusion Models for Text-to-image Generation. NeurIPS 2024, [[pdf]](https://arxiv.org/pdf/2402.10210)
@@ -46,6 +45,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.14871)
 * PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.03177)
 * SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.10493)
+* Margin-aware Preference Optimization for Aligning Diffusion Models without Reference. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2406.06424)
 * DSPO: Direct Score Preference Optimization for Diffusion Model Alignment. ICLR 2025, [[pdf]](https://openreview.net/forum?id=xyfb9HHvMe)
 * Direct Distributional Optimization for Provable Alignment of Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2502.02954)
 * Boost Your Human Image Generation Model via Direct Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.20216)
@@ -123,6 +123,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Measuring Style Similarity in Diffusion Models. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.01292)
 * T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation. TPAMI 2025, [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10847875)
 * DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2406.16855)
+* PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment. ICLR 2025 [[pdf]](https://openreview.net/pdf?id=1kFDrYCuSu)
 
   
 
