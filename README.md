@@ -133,8 +133,6 @@ We try to include recent papers in time, which will be soon added in future revi
 * Individual Choice Behavior. John Wiley 1959, [[pdf]](https://psycnet.apa.org/record/1960-03588-000)
 * The Analysis of Permutations. Journal of the Royal Statistical Society. Series C (Applied Statistics) 1975, [[pdf]](https://www.jstor.org/stable/2346567)
 * Learning-to-Rank with Partitioned Preference: Fast Estimation for the Plackett-Luce Model. AISTATS 2021, [[pdf]](https://arxiv.org/pdf/2006.05067)
-* Models of Human Preference for Learning Reward Functions. arXiv 2022, [[pdf]](https://arxiv.org/pdf/2206.02231)
-* Beyond Preferences in AI Alignment. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2408.16984)
 
 ### RLHF 
 * Training Language Models to Follow Instructions with Human Feedback. NeurIPS 2022, [[pdf]](https://arxiv.org/pdf/2203.02155)
