@@ -67,6 +67,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * RePrompt: Automatic Prompt Editing to Refine AI-Generative Art Towards Precise Expressions. CHI 2023, [[pdf]](https://arxiv.org/pdf/2302.09466)
 * Improving Text-to-Image Consistency via Automatic Prompt Optimization. TMLR 2024, [[pdf]](https://arxiv.org/pdf/2403.17804)
 * Dynamic Prompt Optimizing for Text-to-Image Generation. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2404.04095)
+* InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2404.04650)
 * ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization. NeurIPS 2024, [[pdf]](https://arxiv.org/pdf/2406.04312)
 * Towards Better Text-to-Image Generation Alignment via Attention Modulation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.13899)
 * Inference-Time Alignment of Diffusion Models with Direct Noise Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2405.18881)
