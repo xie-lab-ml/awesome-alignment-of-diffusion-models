@@ -174,6 +174,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Does RLHF Scale? Exploring the Impacts From Data, Model, and Method. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.06000)
 * Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.12895)
 * Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.13926)
+* BadReward: Clean-Label Poisoning of Reward Models in Text-to-Image RLHF. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2506.03234)
 
 
 # Citing
