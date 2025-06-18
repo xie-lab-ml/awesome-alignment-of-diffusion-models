@@ -61,6 +61,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * D3PO: Preference-Based Alignment of Discrete Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08295)
 * Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
 * CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation. ICML 2025, [[pdf]](https://arxiv.org/pdf/2502.12579)
+* Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences. ICML 2025, [[pdf]](https://arxiv.org/pdf/2506.02698)
 
 ### Training-Free/Test-Time Alignment
 * Optimizing Prompts for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2212.09611)
