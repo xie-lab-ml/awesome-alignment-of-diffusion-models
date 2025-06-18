@@ -50,6 +50,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Direct Distributional Optimization for Provable Alignment of Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2502.02954)
 * Boost Your Human Image Generation Model via Direct Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.20216)
 * Curriculum Direct Preference Optimization for Diffusion and Consistency Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.13637)
+* SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/abs/2412.05095) 
 * Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2406.04314)
 * Personalized Preference Fine-tuning of Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2501.06655)
 * Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2501.06655)
