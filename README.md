@@ -46,6 +46,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.03177)
 * SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.10493)
 * Margin-aware Preference Optimization for Aligning Diffusion Models without Reference. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2406.06424)
+* SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/abs/2412.05095) 
 * DSPO: Direct Score Preference Optimization for Diffusion Model Alignment. ICLR 2025, [[pdf]](https://openreview.net/forum?id=xyfb9HHvMe)
 * Direct Distributional Optimization for Provable Alignment of Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2502.02954)
 * Boost Your Human Image Generation Model via Direct Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.20216)
