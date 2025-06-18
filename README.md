@@ -86,7 +86,6 @@ We try to include recent papers in time, which will be soon added in future revi
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
-* Aligning Optimization Trajectories with Diffusion Models for Constrained Design Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2305.18470)
 * AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2310.02054)
 * HIVE: Harnessing Human Feedback for Instructional Visual Editing. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2303.09618)
 * InstructVideo: Instructing Video Diffusion Models with Human Feedback. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2312.12490)
