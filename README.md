@@ -55,13 +55,14 @@ We try to include recent papers in time, which will be soon added in future revi
 * Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2501.06655)
 * Calibrated Multi-Preference Optimization for Aligning Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2502.02588)
 * InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2503.18454)
+* CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation. ICML 2025, [[pdf]](https://arxiv.org/pdf/2502.12579)
+* D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples. ICML 2025, [[pdf]](https://arxiv.org/abs/2505.22002)
+* Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences. ICML 2025, [[pdf]](https://arxiv.org/abs/2506.02698)
 * Flow-DPO: Improving Video Generation with Human Feedback. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.13918)
 * Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
 * Direct Discriminative Optimization: Your Likelihood-Based Visual Generative Model is Secretly a GAN Discriminator. arXiv 2025, [[pdf]](https://arxiv.org/abs/2503.01103)
 * D3PO: Preference-Based Alignment of Discrete Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08295)
 * Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
-* CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation. ICML 2025, [[pdf]](https://arxiv.org/pdf/2502.12579)
-* Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences. ICML 2025, [[pdf]](https://arxiv.org/pdf/2506.02698)
 
 ### Training-Free/Test-Time Alignment
 * Optimizing Prompts for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2212.09611)
@@ -71,7 +72,6 @@ We try to include recent papers in time, which will be soon added in future revi
 * InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2404.04650)
 * ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization. NeurIPS 2024, [[pdf]](https://arxiv.org/pdf/2406.04312)
 * Towards Better Text-to-Image Generation Alignment via Attention Modulation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.13899)
-* Inference-Time Alignment of Diffusion Models with Direct Noise Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2405.18881)
 * Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14041)
 * Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2408.08252)
 * Golden Noise for Diffusion Models: A Learning Framework. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.09502)
@@ -81,6 +81,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection. ICLR 2025, [[pdf]](https://arxiv.org/abs/2412.10891)
 * Test-time Alignment of Diffusion Models without Reward Over-optimization. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2501.05803)
 * DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi-Objective Scheduling. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2412.00759)
+* Inference-Time Alignment of Diffusion Models with Direct Noise Optimization. ICML 2025, [[pdf]](https://arxiv.org/pdf/2405.18881)
 * A General Framework for Inference-time Scaling and Steering of Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06848)
 * Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.09685)
 * Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.09732)
@@ -102,6 +103,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2412.21059)
 * A3D: Does Diffusion Dream about 3D Alignment? ICLR 2025, [[pdf]](https://arxiv.org/pdf/2406.15020)
 * VideoDPO: Omni-Preference Alignment for Video Diffusion Generation. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2412.14167)
+* DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization. ICML 2025, [[pdf]](https://arxiv.org/abs/2502.04370)
 * Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.19252)
 * HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01690)
 
@@ -134,6 +136,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Individual Choice Behavior. John Wiley 1959, [[pdf]](https://psycnet.apa.org/record/1960-03588-000)
 * The Analysis of Permutations. Journal of the Royal Statistical Society. Series C (Applied Statistics) 1975, [[pdf]](https://www.jstor.org/stable/2346567)
 * Learning-to-Rank with Partitioned Preference: Fast Estimation for the Plackett-Luce Model. AISTATS 2021, [[pdf]](https://arxiv.org/pdf/2006.05067)
+* Energy-Based Preference Model Offers Better Offline Alignment than the Bradley-Terry Preference Model. ICML 2025, [[pdf]](https://arxiv.org/abs/2412.13862)
 
 ### RLHF 
 * Training Language Models to Follow Instructions with Human Feedback. NeurIPS 2022, [[pdf]](https://arxiv.org/pdf/2203.02155)
