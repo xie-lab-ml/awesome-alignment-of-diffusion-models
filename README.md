@@ -18,6 +18,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models, NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2305.16381)
 * Aligning Text-to-Image Models using Human Feedback. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2302.12192)
 * Aligning Text-to-Image Diffusion Models with Reward Backpropagation. arXiv 2023, [[pdf]](https://arxiv.org/pdf/2310.03739v2)
+* Training Diffusion Models with Reinforcement Learning. ICLR 2024, [[pdf]](https://arxiv.org/abs/2305.13301)
 * Directly Fine-Tuning Diffusion Models on Differentiable Rewards. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2309.17400)
 * CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching. NeurIPS 2024, [[pdf]](https://arxiv.org/pdf/2404.03653)
 * PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2402.08714)
