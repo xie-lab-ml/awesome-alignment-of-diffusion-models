@@ -162,6 +162,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Scaling Laws for Reward Model Overoptimization. ICML 2023, [[pdf]](https://arxiv.org/pdf/2210.10760)
 * The Alignment Problem from a Deep Learning Perspective. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2209.00626)
 * Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2309.16240)
+* Finetuning Text-to-Image Diffusion Models for Fairness. ICLR 2024, [[pdf]](https://arxiv.org/pdf/2311.07604)
 * Nash Learning from Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2312.00886)
 * Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint. ICML 2024, [[pdf]](https://arxiv.org/pdf/2312.11456)
 * Dense Reward for Free in Reinforcement Learning from Human Feedback. ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.00782)
