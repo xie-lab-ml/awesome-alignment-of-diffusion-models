@@ -59,7 +59,6 @@ We try to include recent papers in time, which will be soon added in future revi
 * CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation. ICML 2025, [[pdf]](https://arxiv.org/pdf/2502.12579)
 * D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples. ICML 2025, [[pdf]](https://arxiv.org/abs/2505.22002)
 * Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences. ICML 2025, [[pdf]](https://arxiv.org/abs/2506.02698)
-* Flow-DPO: Improving Video Generation with Human Feedback. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.13918)
 * Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
 * Direct Discriminative Optimization: Your Likelihood-Based Visual Generative Model is Secretly a GAN Discriminator. arXiv 2025, [[pdf]](https://arxiv.org/abs/2503.01103)
 * D3PO: Preference-Based Alignment of Discrete Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08295)
@@ -105,6 +104,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * A3D: Does Diffusion Dream about 3D Alignment? ICLR 2025, [[pdf]](https://arxiv.org/pdf/2406.15020)
 * VideoDPO: Omni-Preference Alignment for Video Diffusion Generation. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2412.14167)
 * DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization. ICML 2025, [[pdf]](https://arxiv.org/abs/2502.04370)
+* Flow-DPO: Improving Video Generation with Human Feedback. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.13918)
 * Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.19252)
 * HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01690)
 
