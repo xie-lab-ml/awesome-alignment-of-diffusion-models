@@ -111,6 +111,7 @@ We try to include recent papers in time, which will be soon added in future revi
 
 ## Benchmarks and Evaluation 
 * DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers. ICCV 2023, [[pdf]](https://arxiv.org/pdf/2202.04053)
+* Human Evaluation of Text-to-Image Models on a Multi-Task Benchmark.	NeurIPS 2022 Workshop, [[pdf]](https://arxiv.org/pdf/2211.12112)
 * Human Preference Score: Better Aligning Text-to-Image Models with Human Preference. ICCV 2023, [[pdf]](https://arxiv.org/pdf/2303.14420)
 * ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2304.05977)
 * Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2305.01569)
