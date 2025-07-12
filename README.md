@@ -139,6 +139,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * The Analysis of Permutations. Journal of the Royal Statistical Society. Series C (Applied Statistics) 1975, [[pdf]](https://www.jstor.org/stable/2346567)
 * Learning-to-Rank with Partitioned Preference: Fast Estimation for the Plackett-Luce Model. AISTATS 2021, [[pdf]](https://arxiv.org/pdf/2006.05067)
 * Energy-Based Preference Model Offers Better Offline Alignment than the Bradley-Terry Preference Model. ICML 2025, [[pdf]](https://arxiv.org/abs/2412.13862)
+* Bradley-Terry and Multi-Objective Reward Modeling Are Complementary. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2507.07375)
 
 ### RLHF 
 * Training Language Models to Follow Instructions with Human Feedback. NeurIPS 2022, [[pdf]](https://arxiv.org/pdf/2203.02155)
