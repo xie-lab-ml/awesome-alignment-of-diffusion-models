@@ -138,7 +138,6 @@ We try to include recent papers in time, which will be soon added in future revi
 * Individual Choice Behavior. John Wiley 1959, [[pdf]](https://psycnet.apa.org/record/1960-03588-000)
 * The Analysis of Permutations. Journal of the Royal Statistical Society. Series C (Applied Statistics) 1975, [[pdf]](https://www.jstor.org/stable/2346567)
 * Learning-to-Rank with Partitioned Preference: Fast Estimation for the Plackett-Luce Model. AISTATS 2021, [[pdf]](https://arxiv.org/pdf/2006.05067)
-* Energy-Based Preference Model Offers Better Offline Alignment than the Bradley-Terry Preference Model. ICML 2025, [[pdf]](https://arxiv.org/abs/2412.13862)
 * Bradley-Terry and Multi-Objective Reward Modeling Are Complementary. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2507.07375)
 
 ### RLHF 
@@ -156,6 +155,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * KTO: Model Alignment as Prospect Theoretic Optimization. 	ICML 2024, [[pdf]](https://arxiv.org/pdf/2402.01306)
 * LiPO: Listwise Preference Optimization through Learning-to-Rank. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2402.01878)
 * ORPO: Monolithic Preference Optimization without Reference Model. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2403.07691)
+* Energy-Based Preference Model Offers Better Offline Alignment than the Bradley-Terry Preference Model. ICML 2025, [[pdf]](https://arxiv.org/abs/2412.13862)
 * DPO Kernels: A Semantically-Aware, Kernel-Enhanced, and Divergence-Rich Paradigm for Direct Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2501.03271)
 
 ## Potential Challenges and Opportunities of Diffusion Alignment
