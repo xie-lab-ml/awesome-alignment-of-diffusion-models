@@ -33,6 +33,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Improving Long-Text Alignment for Text-to-Image Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2410.11817)
 * Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2412.07775)
 * Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06481)
+* Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization. arXiv 2025, [[pdf]](https://arxiv.org/abs/2502.01051)
 * ADT: Tuning Diffusion Models with Adversarial Supervision. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2504.11423)
 
 ### DPO 
