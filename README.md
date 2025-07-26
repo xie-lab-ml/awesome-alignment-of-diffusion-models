@@ -60,7 +60,6 @@ We try to include recent papers in time, which will be soon added in future revi
 * D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples. ICML 2025, [[pdf]](https://arxiv.org/abs/2505.22002)
 * Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences. ICML 2025, [[pdf]](https://arxiv.org/abs/2506.02698)
 * Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
-* Direct Discriminative Optimization: Your Likelihood-Based Visual Generative Model is Secretly a GAN Discriminator. arXiv 2025, [[pdf]](https://arxiv.org/abs/2503.01103)
 * D3PO: Preference-Based Alignment of Discrete Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08295)
 * Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
 
