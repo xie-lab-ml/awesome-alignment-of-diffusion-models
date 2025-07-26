@@ -32,6 +32,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Information Theoretic Text-to-Image Alignment. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2405.20759)
 * Improving Long-Text Alignment for Text-to-Image Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2410.11817)
 * Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2412.07775)
+* Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2501.06655)
 * Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06481)
 * ADT: Tuning Diffusion Models with Adversarial Supervision. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2504.11423)
 
@@ -53,14 +54,12 @@ We try to include recent papers in time, which will be soon added in future revi
 * Curriculum Direct Preference Optimization for Diffusion and Consistency Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.13637)
 * Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2406.04314)
 * Personalized Preference Fine-tuning of Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2501.06655)
-* Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2501.06655)
 * Calibrated Multi-Preference Optimization for Aligning Diffusion Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2502.02588)
 * InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2503.18454)
 * CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation. ICML 2025, [[pdf]](https://arxiv.org/pdf/2502.12579)
 * D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples. ICML 2025, [[pdf]](https://arxiv.org/abs/2505.22002)
 * Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences. ICML 2025, [[pdf]](https://arxiv.org/abs/2506.02698)
 * Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
-* D3PO: Preference-Based Alignment of Discrete Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08295)
 * Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
 
 ### Training-Free/Test-Time Alignment
