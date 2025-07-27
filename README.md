@@ -91,7 +91,6 @@ We try to include recent papers in time, which will be soon added in future revi
 * InstructVideo: Instructing Video Diffusion Models with Human Feedback. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2312.12490)
 * DreamReward: Text-to-3D Generation with Human Preference. ECCV 2024, [[pdf]](https://arxiv.org/pdf/2403.14613)
 * Tango 2: Aligning diffusion-based text-to-audio generations through direct preference optimization. ACM MM 2024, [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681688)
-* Videoscore: Building automatic metrics to simulate fine-grained human feedback for video generation. EMNLP 2024, [[pdf]](https://arxiv.org/pdf/2406.15252)
 * Video Diffusion Alignment via Reward Gradients. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.08737)
 * Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.01648)
 * VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.15115)
