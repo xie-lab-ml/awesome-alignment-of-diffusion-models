@@ -153,7 +153,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * LiPO: Listwise Preference Optimization through Learning-to-Rank. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2402.01878)
 * ORPO: Monolithic Preference Optimization without Reference Model. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2403.07691)
 * Energy-Based Preference Model Offers Better Offline Alignment than the Bradley-Terry Preference Model. ICML 2025, [[pdf]](https://arxiv.org/abs/2412.13862)
-* DPO Kernels: A Semantically-Aware, Kernel-Enhanced, and Divergence-Rich Paradigm for Direct Preference Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2501.03271)
+
 
 ## Potential Challenges and Opportunities of Diffusion Alignment
 * Scaling Laws for Reward Model Overoptimization. ICML 2023, [[pdf]](https://arxiv.org/pdf/2210.10760)
