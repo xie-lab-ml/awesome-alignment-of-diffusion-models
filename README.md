@@ -127,6 +127,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation. TPAMI 2025, [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10847875)
 * DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2406.16855)
 * PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment. ICLR 2025 [[pdf]](https://openreview.net/pdf?id=1kFDrYCuSu)
+* Video-Bench: Human-Aligned Video Generation Benchmark. CVPR 2025 [[pdf]](https://arxiv.org/pdf/2504.04907)
 
   
 
