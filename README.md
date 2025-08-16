@@ -51,6 +51,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Margin-aware Preference Optimization for Aligning Diffusion Models without Reference. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2406.06424)
 * DSPO: Direct Score Preference Optimization for Diffusion Model Alignment. ICLR 2025, [[pdf]](https://openreview.net/forum?id=xyfb9HHvMe)
 * Direct Distributional Optimization for Provable Alignment of Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2502.02954)
+* Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2505.11245)
 * Boost Your Human Image Generation Model via Direct Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.20216)
 * Curriculum Direct Preference Optimization for Diffusion and Consistency Models. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2405.13637)
 * Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization. CVPR 2025, [[pdf]](https://arxiv.org/pdf/2406.04314)
