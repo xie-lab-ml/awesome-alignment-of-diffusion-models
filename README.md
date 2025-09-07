@@ -36,6 +36,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06481)
 * Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization. arXiv 2025, [[pdf]](https://arxiv.org/abs/2502.01051)
 * ADT: Tuning Diffusion Models with Adversarial Supervision. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2504.11423)
+* DanceGRPO: Unleashing GRPO on Visual Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2505.07818)
 * Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning. arXiv 2025, [[pdf]](https://www.arxiv.org/pdf/2508.20751)
 
 ### DPO 
