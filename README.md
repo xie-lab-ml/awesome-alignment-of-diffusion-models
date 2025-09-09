@@ -65,6 +65,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences. ICML 2025, [[pdf]](https://arxiv.org/abs/2506.02698)
 * Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
 * Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
+* Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2509.06942)
 
 ### Training-Free/Test-Time Alignment
 * Optimizing Prompts for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2212.09611)
