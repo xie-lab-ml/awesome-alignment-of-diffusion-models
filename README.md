@@ -132,6 +132,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2406.16855)
 * PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment. ICLR 2025 [[pdf]](https://openreview.net/pdf?id=1kFDrYCuSu)
 * Video-Bench: Human-Aligned Video Generation Benchmark. CVPR 2025 [[pdf]](https://arxiv.org/pdf/2504.04907)
+* RewardDance: Reward Scaling in Visual Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2509.08826)
 
   
 
