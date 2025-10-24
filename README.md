@@ -38,6 +38,8 @@ We try to include recent papers in time, which will be soon added in future revi
 * ADT: Tuning Diffusion Models with Adversarial Supervision. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2504.11423)
 * DanceGRPO: Unleashing GRPO on Visual Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2505.07818)
 * Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning. arXiv 2025, [[pdf]](https://www.arxiv.org/pdf/2508.20751)
+* Aligning Text‑to‑Image Diffusion Models to Human Preference by Classification. NeurIPS 2025, [[pdf]](https://neurips.cc/virtual/2025/poster/117391)
+* Composition and Alignment of Diffusion Models using Constrained Learning. NeurIPS 2025, [[pdf]](https://arxiv.org/pdf/2508.19104)
 
 ### DPO 
 * Diffusion Model Alignment Using Direct Preference Optimization. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2311.12908)
@@ -66,6 +68,11 @@ We try to include recent papers in time, which will be soon added in future revi
 * Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
 * Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
 * Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2509.06942)
+* A Gradient Guidance Perspective on Stepwise Preference Optimization for Diffusion Models. NeurIPS 2025 [[pdf]](https://neurips.cc/virtual/2025/poster/117028)
+* Self-Supervised Direct Preference Optimization for Text-to-Image Diffusion Models. NeurIPS 2025 [[pdf]](https://neurips.cc/virtual/2025/poster/119288)
+* Personalized Image Editing in Text-to-Image Diffusion Models via Collaborative Direct Preference Optimization. NeurIPS 2025 [[pdf]](https://neurips.cc/virtual/2025/poster/119400)
+* Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization. NeurIPS 2025 [[pdf]](https://arxiv.org/pdf/2502.01051)
+* CPO: Condition Preference Optimization for Controllable Image Generation. NeurIPS 2025, [[pdf]](https://neurips.cc/virtual/2025/poster/117815)
 
 ### Training-Free/Test-Time Alignment
 * Optimizing Prompts for Text-to-Image Generation. NeurIPS 2023, [[pdf]](https://arxiv.org/pdf/2212.09611)
@@ -88,6 +95,8 @@ We try to include recent papers in time, which will be soon added in future revi
 * A General Framework for Inference-time Scaling and Steering of Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06848)
 * Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.09685)
 * Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.09732)
+* Diffusion Tree Sampling: Scalable inference‑time alignment of diffusion models. NeurIPS 2025 [[pdf]](https://arxiv.org/pdf/2506.20701)
+* Diffusion Adaptive Text Embedding for Text‑to‑Image Diffusion Models. NeurIPS 2025, [[pdf]](https://neurips.cc/virtual/2025/poster/117108)
 
 
 ### Alignment Beyond Text-to-Image Diffusion Models
@@ -109,6 +118,10 @@ We try to include recent papers in time, which will be soon added in future revi
 * Flow-DPO: Improving Video Generation with Human Feedback. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.13918)
 * Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.19252)
 * HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01690)
+* DenseDPO: Fine‑Grained Temporal Preference Optimization for Video Diffusion Models. NeurIPS 2025, [[pdf]](https://arxiv.org/pdf/2506.03517.pdf)
+* Ranking-based Preference Optimization for Diffusion Models from Implicit User Feedback. NeurIPS 2025 [[pdf]](https://neurips.cc/virtual/2025/poster/118987)
+* Uncertainty‑aware Preference Alignment for Diffusion Policies (Diff‑UAPA). NeurIPS 2025, [[pdf]](https://openreview.net/pdf/937442d43d77a3dffdfb539f1ad6abf05d997ea9.pdf)
+* VTON‑VLLM: Aligning Virtual Try‑On Models with Human Preferences. NeurIPS 2025, [[pdf]](https://neurips.cc/virtual/2025/poster/116251)
 
 
 ## Benchmarks and Evaluation 
@@ -186,6 +199,8 @@ We try to include recent papers in time, which will be soon added in future revi
 * Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.12895)
 * Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.13926)
 * BadReward: Clean-Label Poisoning of Reward Models in Text-to-Image RLHF. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2506.03234)
+* Aligning Text to Image in Diffusion Models is Easier Than You Think. NeruIPS 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
+* Whose View of Safety? A Deep DIVE Dataset for Pluralistic Alignment of Text-to-Image Models. NeurIPS 2025, [[pdf]](https://neurips.cc/virtual/2025/poster/121857)
 
 
 # Citing
