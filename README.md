@@ -38,6 +38,8 @@ We try to include recent papers in time, which will be soon added in future revi
 * ADT: Tuning Diffusion Models with Adversarial Supervision. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2504.11423)
 * DanceGRPO: Unleashing GRPO on Visual Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2505.07818)
 * Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning. arXiv 2025, [[pdf]](https://www.arxiv.org/pdf/2508.20751)
+* ShortFT: Diffusion Model Alignment via Shortcut‑based Fine‑Tuning. ICCV 2025, [[pdf]](https://arxiv.org/pdf/2507.22604) 
+* Entropy‑Adaptive Diffusion Policy Optimization with Dynamic Step Alignment. ICCV 2025, [[pdf]](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Entropy-Adaptive_Diffusion_Policy_Optimization_with_Dynamic_Step_Alignment_ICCV_2025_paper.html) 
 * Aligning Text‑to‑Image Diffusion Models to Human Preference by Classification. NeurIPS 2025, [[pdf]](https://neurips.cc/virtual/2025/poster/117391)
 * Composition and Alignment of Diffusion Models using Constrained Learning. NeurIPS 2025, [[pdf]](https://arxiv.org/pdf/2508.19104)
 
@@ -68,6 +70,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2502.01667)
 * Aligning Text to Image in Diffusion Models is Easier Than You Think. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2503.08250)
 * Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2509.06942)
+* Rethinking DPO‑style Diffusion Aligning Frameworks. ICCV 2025, [[pdf]](https://openaccess.thecvf.com/content/ICCV2025/html/Du_Rethinking_DPO-style_Diffusion_Aligning_Frameworks_ICCV_2025_paper.html) 
 * A Gradient Guidance Perspective on Stepwise Preference Optimization for Diffusion Models. NeurIPS 2025 [[pdf]](https://neurips.cc/virtual/2025/poster/117028)
 * Self-Supervised Direct Preference Optimization for Text-to-Image Diffusion Models. NeurIPS 2025 [[pdf]](https://neurips.cc/virtual/2025/poster/119288)
 * Personalized Image Editing in Text-to-Image Diffusion Models via Collaborative Direct Preference Optimization. NeurIPS 2025 [[pdf]](https://neurips.cc/virtual/2025/poster/119400)
@@ -84,7 +87,6 @@ We try to include recent papers in time, which will be soon added in future revi
 * Towards Better Text-to-Image Generation Alignment via Attention Modulation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2404.13899)
 * Not All Noises Are Created Equally: Diffusion Noise Selection and Optimization. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2407.14041)
 * Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2408.08252)
-* Golden Noise for Diffusion Models: A Learning Framework. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.09502)
 * Preference Alignment for Diffusion Model via Explicit Denoised Distribution Estimation. arXiv 2024, [[pdf]](https://arxiv.org/pdf/2411.14871)
 * Training-Free Diffusion Model Alignment with Sampling Demons. ICLR 2025, [[pdf]](https://arxiv.org/pdf/2410.05760) 
 * Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection. ICLR 2025, [[pdf]](https://arxiv.org/abs/2412.10891)
@@ -95,6 +97,9 @@ We try to include recent papers in time, which will be soon added in future revi
 * A General Framework for Inference-time Scaling and Steering of Diffusion Models. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.06848)
 * Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2501.09685)
 * Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps. arXiv 2025, [[pdf]](https://arxiv.org/abs/2501.09732)
+* Golden Noise for Diffusion Models: A Learning Framework. ICCV 2025, [[pdf]](https://arxiv.org/pdf/2411.09502) 
+* IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance. ICCV 2025, [[pdf]](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_IMG_Calibrating_Diffusion_Models_via_Implicit_Multimodal_Guidance_ICCV_2025_paper.html) 
+* TITAN‑Guide: Taming Inference‑Time Alignment for Guided Text‑to‑Video Diffusion Models. ICCV 2025, [[pdf]](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_TITAN-Guide_Taming_Inference-Time_Alignment_for_Guided_Text-to-Video_Diffusion_Models_ICCV_2025_paper.html) 
 * Diffusion Tree Sampling: Scalable inference‑time alignment of diffusion models. NeurIPS 2025 [[pdf]](https://arxiv.org/pdf/2506.20701)
 * Diffusion Adaptive Text Embedding for Text‑to‑Image Diffusion Models. NeurIPS 2025, [[pdf]](https://neurips.cc/virtual/2025/poster/117108)
 
@@ -146,6 +151,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment. ICLR 2025 [[pdf]](https://openreview.net/pdf?id=1kFDrYCuSu)
 * Video-Bench: Human-Aligned Video Generation Benchmark. CVPR 2025 [[pdf]](https://arxiv.org/pdf/2504.04907)
 * RewardDance: Reward Scaling in Visual Generation. arXiv 2025, [[pdf]](https://arxiv.org/pdf/2509.08826)
+* F‑Bench: Rethinking Human Preference Evaluation Metrics in Face Generation. ICCV 2025, [[pdf]](https://openaccess.thecvf.com/content/ICCV2025/html/Zhao_F-Bench_Rethinking_Human_Preference_Evaluation_Metrics_in_Face_Generation_ICCV_2025_paper.html) 
 
   
 
