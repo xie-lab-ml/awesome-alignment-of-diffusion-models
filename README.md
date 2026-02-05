@@ -219,11 +219,11 @@ If you find the paper list useful for your research, you are highly welcome to c
 
 
 ```
-@article{liu2024alignment,
+@article{liu2026alignment,
   title = {Alignment of Diffusion Models: Fundamentals, Challenges, and Future},
   author = {Liu, Buhua and Shao, Shitong and Li, Bao and Bai, Lichen, and Xu, Zhiqiang and Xiong, Haoyi and Kwok, James and Helal, Sumi and Xie, Zeke},
-  journal = {arXiv preprint arXiv 2024.07253},
-  year = {2024}
+  journal = {ACM Computing Surveys},
+  year = {2026}
 }
 ```
 
