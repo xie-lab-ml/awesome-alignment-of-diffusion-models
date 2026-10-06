@@ -43,6 +43,7 @@ We try to include recent papers in time, which will be soon added in future revi
 * Entropy‑Adaptive Diffusion Policy Optimization with Dynamic Step Alignment. ICCV 2025, [[pdf]](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Entropy-Adaptive_Diffusion_Policy_Optimization_with_Dynamic_Step_Alignment_ICCV_2025_paper.html) 
 * Aligning Text‑to‑Image Diffusion Models to Human Preference by Classification. NeurIPS 2025, [[pdf]](https://neurips.cc/virtual/2025/poster/117391)
 * Composition and Alignment of Diffusion Models using Constrained Learning. NeurIPS 2025, [[pdf]](https://arxiv.org/pdf/2508.19104)
+* iADD: Improving Alignment and Diversity in Diffusion Policy Optimization. arXiv 2026, [[pdf]](https://arxiv.org/pdf/2610.01789)
 
 ### DPO 
 * Diffusion Model Alignment Using Direct Preference Optimization. CVPR 2024, [[pdf]](https://arxiv.org/pdf/2311.12908)
